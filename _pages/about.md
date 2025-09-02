@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Urban Planner</a>.
+subtitle: Research Associate at<a href='https://www.iimb.ac.in/economics-area'>Indian Institute of Management Bangalore</a>.
 
 profile:
   align: right
@@ -12,7 +12,7 @@ profile:
     <p>HQTC IAF</p>
     <p>Bangalore, Karnataka</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
