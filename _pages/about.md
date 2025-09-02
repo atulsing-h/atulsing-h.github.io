@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Associate at<a href='https://www.iimb.ac.in/economics-area'>Indian Institute of Management Bangalore</a>.
+subtitle: Research Associate at <a href='https://www.iimb.ac.in/economics-area'>Indian Institute of Management Bangalore</a>.
 
 profile:
   align: right
