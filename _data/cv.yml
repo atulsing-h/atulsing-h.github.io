@@ -17,7 +17,8 @@
       description:
         - GPA 8.95/10
         - title: Subjects
-            description: Geoinformatics, Urban and Regional Planning, Transportation and Logistics, Environmental Planning
+            items: 
+             - Geoinformatics, Urban and Regional Planning, Transportation and Logistics, Environmental Planning
 
 - title: Experience
   type: time_table
